@@ -27,6 +27,8 @@ const (
 	COMMA     = ","
 	SEMICOLON = ";"
 
+	STRING = "STRING"
+
 	LPAREN = "("
 	RPAREN = ")"
 	LBRACE = "{"
