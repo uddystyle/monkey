@@ -41,6 +41,8 @@ const (
 	IF       = "IF"
 	ELSE     = "ELSE"
 	RETURN   = "RETURN"
+	LBRACKET = "["
+	RBRACKET = "]"
 
 	EQ     = "=="
 	NOT_EQ = "!="
